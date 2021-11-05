@@ -1,0 +1,32 @@
+{
+  "name": "gp_mexico",
+  "version": "1.0.0",
+  "description": "registro de clientes rush ",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmontoya11/rush.git"
+  },
+  "keywords": [
+    "rush",
+    "clientes",
+    "gp_mexico"
+  ],
+  "author": "MAMF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmontoya11/rush/issues"
+  },
+  "homepage": "https://github.com/mmontoya11/rush#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
